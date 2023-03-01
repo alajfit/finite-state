@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/alajfit/finite-state#readme",
   "dependencies": {
-    "ts-node-dev": "^1.0.0-pre.40",
+    "ts-node-dev": "^1.1.8",
     "typescript": "^3.5.3",
     "xstate": "^4.6.7"
   }
